@@ -1,0 +1,13 @@
+{
+  "name": "kool",
+  "version": "0.0.1",
+  "description": "a text editor",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^11.0.3"
+  }
+}
